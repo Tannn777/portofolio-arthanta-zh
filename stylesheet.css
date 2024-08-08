@@ -851,7 +851,6 @@ form textarea {
     }
 }
 
-/* Media Queries for Responsiveness */
 @media (max-width: 1200px) {
     .header {
         padding: 15px 5%;
@@ -1021,7 +1020,7 @@ form textarea {
     }
 
     .navbar {
-        display: none; /* Hide navbar links on very small screens */
+        display: none; 
     }
 
     .logo {
